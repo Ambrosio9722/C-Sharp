@@ -1,7 +1,8 @@
 # C-Sharp
 
-Repositório dedicado a projetos envolvendo a linguagem de programação C#. 
+# Repositório dedicado a projetos envolvendo a linguagem de programação C#
 
+```csharp
 using System;
 
 class Program
