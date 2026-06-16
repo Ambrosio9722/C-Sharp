@@ -1,0 +1,38 @@
+commit: foto da alteração, checkpoint salvamento da versão do projeto 
+
+. armazena as alterações 
+. mensagem : o que foi alterado 
+
+
+[feature]  [develop]  [master]
+    |          |         |
+
+    o          o   ---   o
+    |          |         |
+    o          o         o
+    | ---      |         |
+    o          o         o
+    |          |         |
+    o          o         o
+    |   ---    |         |
+               o         o
+               |         | 
+               o         o
+
+Pratica:
+Git bash
+
+git -v: ver a versão do git e se esta instalado 
+git init: inicializa o repositório git 
+git clone<url>: clona o repositório de github
+
+criar pasta via terminal: mk dir <nome>
+acessar pasta: cd <nome da pasta>
+criar readmi: touch readmi.md
+git add<caminho do arquivo>: prepara as alterações para o próximo commit
+git status: exibe o estado atual do repositório, mostrando arquivos modificados, novos arquivos, alterações
+git diff --staged: 
+git commit -m "mensagem do commit": salva permaneteente 
+git log -n(n= numero de commits): exibe os últimos commits
+git push: envia as commits para o remoto
+git pull: atualiza o repositorio local 
