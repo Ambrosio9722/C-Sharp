@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\bin\Debug\net8.0\Basico.exe
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\bin\Debug\net8.0\Basico.deps.json
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\bin\Debug\net8.0\Basico.runtimeconfig.json
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\bin\Debug\net8.0\Basico.dll
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\bin\Debug\net8.0\Basico.pdb
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.AssemblyInfo.cs
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.sourcelink.json
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.dll
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\refint\Basico.dll
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.pdb
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\Basico.genruntimeconfig.cache
+C:\Users\anton\Desktop\Repositorios_GIT\C-Sharp\Estudo\Curso\Basico\Basico\obj\Debug\net8.0\ref\Basico.dll

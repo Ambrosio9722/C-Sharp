@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\Repositorios_GIT\\C-Sharp\\Estudo\\Curso\\Basico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24159F06-CFB6-49BA-863C-BD2B2FD16A7F}|Basico\\Basico.csproj|c:\\users\\anton\\desktop\\repositorios_git\\c-sharp\\estudo\\curso\\basico\\basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24159F06-CFB6-49BA-863C-BD2B2FD16A7F}|Basico\\Basico.csproj|solutionrelative:basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\Repositorios_GIT\\C-Sharp\\Estudo\\Curso\\Basico\\Basico\\Program.cs",
+              "RelativeDocumentMoniker": "Basico\\Program.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\Repositorios_GIT\\C-Sharp\\Estudo\\Curso\\Basico\\Basico\\Program.cs",
+              "RelativeToolTip": "Basico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T20:01:54.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
